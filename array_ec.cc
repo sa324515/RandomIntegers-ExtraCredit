@@ -34,7 +34,6 @@ int main(int argc, char const *argv[]) {
     } else {
         cout << "The location of " << target << " is " << location << endl;
     }
-
     return 0;
 }// main
 
